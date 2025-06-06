@@ -16,7 +16,7 @@ A simple drag-and-drop sticker canvas built with **React** and **react-konva**. 
 
 ###  Preview
 
-![Preview of Canvas]([my-era\Screenshot 2025-06-06 202451.png](https://github.com/Electron910/MyEra-Assignment/blob/main/Screenshot%202025-06-06%20202451.png))
+![Preview of Canvas](https://github.com/Electron910/MyEra-Assignment/blob/main/Screenshot%202025-06-06%20202451.png)
 
 ---
 
